@@ -1,0 +1,8 @@
+////start server
+
+npm start
+
+
+////start peer js server
+
+peerjs --port port number
